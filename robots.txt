@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nesy639.github.io/my-repo-5/sitemap.xml
